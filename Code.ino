@@ -1,7 +1,4 @@
-//#define BLYNK_TEMPLATE_ID "TMPL3NozHvQS3"
-//#define BLYNK_TEMPLATE_NAME "blynk home"
-//#define BLYNK_AUTH_TOKEN "ImGf305pjcLJJprn3Kr3QV-zKgmMIEK8"
-
+//Copy Template ID, Name, Auth Code from Blynk Application
 #define BLYNK_TEMPLATE_ID "TMPL3Zv6995cE"
 #define BLYNK_TEMPLATE_NAME "Sneha home"
 #define BLYNK_AUTH_TOKEN "VmKbT-w7NPZdjLEgSPlzdrGJrRqRPOvm"

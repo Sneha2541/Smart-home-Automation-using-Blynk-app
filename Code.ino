@@ -13,8 +13,8 @@
 #include <DHT.h>
 
 char auth[] = "VmKbT-w7NPZdjLEgSPlzdrGJrRqRPOvm"; 
-char ssid[] = "Redmi 9 Prime"; 
-char pass[] = "25418125"; // 
+char ssid[] = "ABC"; //      Wi-Fi Name
+char pass[] = "XYZ"; //      Wi-Fi Password
 
 DHT dht(D3, DHT11); // 
 BlynkTimer timer;

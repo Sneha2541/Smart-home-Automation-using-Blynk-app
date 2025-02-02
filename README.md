@@ -1,9 +1,8 @@
 A smart home automation project using ESP32 with Blynk Application
-
+ 
 Features
-
--Four LEDs which can be controlled from anywhere using Blynk app   
+-Two LEDs which can be controlled from anywhere using Blynk app   
 -Temperature and Humidity info using DHTT sensor   
--Temperature Alerts (In-App notification + mail)     
--Remote Gate control (manual control from 0 to 180 degrees)      
--Smoke Detection using MQ2 sensor with buzzer and Blynk app notification
+-Temperature Alerts (In-App notification)
+-Distance measurement in car parking using Ultrasonic sensor displays in app
+

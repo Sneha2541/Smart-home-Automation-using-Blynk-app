@@ -11,4 +11,4 @@ Features
   
 Screenshots 
 - 
-![WhatsApp Image 2025-01-31 at 10 28 51 AM](https://github.com/user-attachments/assets/59a82983-8361-4e56-a35c-c0fd1ed8b420)
+![WhatsApp Image 2025-01-31 at 10 28 51 AM](https://github.com/user-attachments/assets/59a82983-8361-4e56-a35c-c0fd1ed8b420)  
